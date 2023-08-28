@@ -1,3 +1,4 @@
 apples
 berries
 cherries
+added more colours for master branch
